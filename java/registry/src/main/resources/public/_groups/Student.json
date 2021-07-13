@@ -1,0 +1,9 @@
+[
+  {
+    "name": "student-with-guardian",
+    "realmRoles": [
+      "read-private",
+      "read-internal"
+    ]
+  }
+]

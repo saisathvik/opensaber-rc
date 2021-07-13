@@ -1,0 +1,23 @@
+[
+  {
+    "name": "dean",
+    "realmRoles": [
+      "write-public",
+      "write-private",
+      "write-internal",
+      "read-private",
+      "read-internal",
+      "attestor"
+    ]
+  },
+  {
+    "name": "admin-staff",
+    "realmRoles": [
+      "write-public",
+      "write-private",
+      "write-internal",
+      "read-private",
+      "read-internal"
+    ]
+  }
+]

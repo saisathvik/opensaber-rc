@@ -1,0 +1,26 @@
+[
+  {
+    "name": "write-public",
+    "description": "can edit public fields"
+  },
+  {
+    "name": "read-private",
+    "description": "can read private fields"
+  },
+  {
+    "name": "write-private",
+    "description": "can edit private fields"
+  },
+  {
+    "name": "read-internal",
+    "description": "can read internal fields"
+  },
+  {
+    "name": "write-internal",
+    "description": "can edit internal fields"
+  },
+  {
+    "name": "attestor",
+    "description": "can attest on behalf of entity"
+  }
+]
